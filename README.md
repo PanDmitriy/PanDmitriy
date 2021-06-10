@@ -1,16 +1,12 @@
-### Hi there 👋
+# 👋 Hello! Thank you for visiting me!
+### My name is **Dmitriy**.
+### I'm a *front-end developer on React JS* from Belarus. 
 
-<!--
-**PanDmitriy/PanDmitriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and technologies
+![Git](https://img.shields.io/badge/Git-black?style=for-the-bange&logo=git)
+![ReactJs](https://img.shields.io/badge/React_JS-black?style=for-the-bange&logo=react)
+![Redux](https://img.shields.io/badge/Redux-black?style=for-the-bange&logo=Redux)
+![JS](https://img.shields.io/badge/JavaScript-black?style=for-the-bange&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-bange&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-bange&logo=css3)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-bange&logo=firebase)
